@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1030557988871",
+    "project_id": "streetlight-a6312",
+    "storage_bucket": "streetlight-a6312.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030557988871:android:edfd6e86deb5e9711c12a2",
+        "android_client_info": {
+          "package_name": "com.example.database"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030557988871-kd5cpk34ul0als2ikoqc3tbfd0hqp11e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwCJGeQ0tTcrBmh_gvcqE_pnaod00QveE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030557988871-kd5cpk34ul0als2ikoqc3tbfd0hqp11e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
